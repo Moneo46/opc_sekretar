@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"TextField\tclass"
+			],
+			[
+				"char",
+				"CharField\tclass"
+			],
+			[
+				"integer",
+				"IntegerField\tclass"
+			],
+			[
+				"auto",
+				"auto_now\tparam"
+			],
+			[
+				"spra",
+				"spravka_type\tabc"
+			],
+			[
+				"templ",
+				"template_name\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "proj/settings.py",
+			"settings":
+			{
+				"buffer_size": 3226,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database/models.py",
+			"settings":
+			{
+				"buffer_size": 974,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/P_project/sekretar",
+		"/C/P_project/sekretar/database"
+	],
+	"file_history":
+	[
+		"/C/P_project/x/run.py",
+		"/C/lazarus/dev/53 trade/Новый текстовый документ.txt",
+		"/C/lazarus/dev/53 trade/html.txt",
+		"/C/Users/lykovm/Desktop/run.py",
+		"/C/Users/lykovm/Desktop/update.py",
+		"/C/P_project/sekretar/proj/proj/settings.py",
+		"/C/Users/lykovm/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/P_project/sekretar/run.py",
+		"/C/P_project/spravki/static/css/styles.css",
+		"/C/P_project/spravki/spravki/settings.py",
+		"/C/P_project/spravki/database/models.py",
+		"/C/P_project/spravki/database/templates/byxadmin.html",
+		"/C/P_project/spravki/database/templates/registry_new_2ndfl.html",
+		"/C/P_project/spravki/database/views.py",
+		"/C/P_project/spravki/database/urls.py",
+		"/C/P_project/getH.py",
+		"/C/P_project/form_zap.py",
+		"/C/сайт/registerpeople.php",
+		"/C/P_project/spravki/database/templates/kadriadmin.html",
+		"/C/P_project/spravki/database/templates/registry_confirm_delete.html",
+		"/C/P_project/spravki/database/templates/registry_new_vacation.html",
+		"/C/P_project/spravki/database/templates/registry_new_trud.html",
+		"/C/P_project/spravki/database/templates/registry_new_smesta.html",
+		"/C/P_project/rodovoe/database/templates/patology_confirm_delete.html",
+		"/C/P_project/Расписание/rasp.py",
+		"/C/Users/lykovm/Desktop/1/fintable.py",
+		"/C/Users/lykovm/Desktop/fintable.py",
+		"/C/P_project/x/xbet.py",
+		"/C/P_project/spravki/database/templates/edit_smesta.html",
+		"/C/P_project/spravki/database/templates/kadriarchieve.html",
+		"/C/P_project/spravki/database/templates/kadri_print.html",
+		"/C/P_project/spravki/templates/base_index.html",
+		"/C/P_project/spravki/templates/base_gen.html",
+		"/C/P_project/spravki/database/templates/byx_archieve.html",
+		"/C/P_project/spravki/database/templates/print_vacation.html",
+		"/C/P_project/spravki/database/templates/print_spravka_vacation.html",
+		"/C/P_project/spravki/database/templates/byx_print.html",
+		"/C/P_project/spravki/database/templates/edit_vacation.html",
+		"/C/P_project/spravki/database/static/css/styles.css",
+		"/C/P_project/spravki/database/templates/print_spravka_smesta.html",
+		"/C/P_project/spravki/database/templates/print_trud.html",
+		"/C/P_project/spravki/database/templates/list_doljnost.html",
+		"/C/P_project/spravki/database/templates/list_otdel.html",
+		"/C/P_project/spravki/database/templates/print_2ndfl.html",
+		"/C/P_project/spravki/database/templates/print_smesta.html",
+		"/C/P_project/spravki/database/templates/otdel_confirm_delete.html",
+		"/C/P_project/spravki/database/templates/list_otdel_new.html",
+		"/C/P_project/spravki/database/templates/list_otdel_edit.html",
+		"/C/P_project/spravki/database/templates/doljnost_new.html",
+		"/C/P_project/spravki/database/templates/doljnost_edit.html",
+		"/C/P_project/spravki/database/templates/doljnost_confirm_delete.html",
+		"/C/P_project/spravki/database/templates/doljnost_otdel_new.html",
+		"/C/P_project/spravki/templates/base_generic.html",
+		"/C/P_project/spravki/database/templates/edit_trud.html",
+		"/C/P_project/rodovoe/database/views.py",
+		"/C/P_project/spravki/database/templates/css/styles.css",
+		"/C/P_project/print/database/views.py",
+		"/C/P_project/rodovoe/database/urls.py",
+		"/C/P_project/print/database/urls.py",
+		"/C/P_project/print/database/templates/index.html",
+		"/C/P_project/print/templates/base_index.html",
+		"/C/P_project/print/templates/base_generic.html",
+		"/C/P_project/print/database/templates/print.html",
+		"/C/P_project/print/database/templates/registry_edit.html",
+		"/C/P_project/print/database/templates/registry_new.html",
+		"/C/P_project/print/print/settings.py",
+		"/C/Users/lykovm/Desktop/fb.py",
+		"/C/P_project/print/move.py",
+		"/C/P_project/print/database/models.py",
+		"/C/P_project/print/database/templates/reports.html",
+		"/C/P_project/print/database/templates/list_otdel.html",
+		"/C/P_project/print/database/templates/list_sub_otdel_new.html",
+		"/C/P_project/print/database/templates/list_otdel_new.html",
+		"/C/P_project/print/database/templates/list_sub_otdel_edit.html",
+		"/C/P_project/print/database/templates/list_otdel_edit.html",
+		"/C/P_project/print/database/templates/list_sub_otdel_confirm_delete.html",
+		"/C/P_project/print/database/templates/list_sub_otdel.html",
+		"/C/P_project/print/static/css/styles.css",
+		"/C/P_project/print/print/urls.py",
+		"/C/P_project/print/database/templates/catridge_confirm_delete.html",
+		"/C/P_project/print/database/templates/registry_confirm_delete.html",
+		"/C/P_project/print/database/templates/otdel_confirm_delete.html",
+		"/C/P_project/print/database/templates/list_cat_new.html",
+		"/C/P_project/print/database/templates/list_cat_edit.html",
+		"/C/P_project/print/database/templates/list_cat.html",
+		"/C/P_project/print/database/templates/registry_confirm_delete.html.html",
+		"/C/P_project/print/database/templates/new.html",
+		"/C/P_project/rodovoe/database/models.py",
+		"/C/P_project/rodovoe/database/templates/report_archieve.html",
+		"/C/P_project/rodovoe/database/forms.py",
+		"/C/P_project/rodovoe/rodovoe/urls.py",
+		"/C/P_project/rodovoe/rodovoe/settings.py",
+		"/C/P_project/rodovoe/database/templates/poslerodovoe_edit.html",
+		"/C/P_project/rodovoe/database/templates/r_index.html",
+		"/C/P_project/rodovoe/database/templates/index.html",
+		"/C/P_project/rodovoe/database/templates/poslerodovoe_archieve.html",
+		"/C/P_project/rodovoe/database/templates/patology_archieve.html",
+		"/C/P_project/rodovoe/database/templates/patology_edit.html",
+		"/C/P_project/rodovoe/report_active.py",
+		"/C/P_project/rodovoe/templates/registration/login.html",
+		"/C/P_project/rodovoe/database/static/css/styles.css",
+		"/C/P_project/rodovoe/database/templates/light_patology.html",
+		"/C/P_project/rodovoe/database/templates/light_poslerodovoe.html",
+		"/C/P_project/rodovoe/database/templates/patology_new.html",
+		"/C/P_project/rodovoe/templates/base_generic.html",
+		"/C/P_project/rodovoe/database/templates/active.html",
+		"/C/P_project/rodovoe/database/templates/poslerodovoe_new.html",
+		"/C/P_project/rodovoe/database/templates/poslerodovoe_confirm_delete.html",
+		"/C/P_project/rodovoe/manage.py",
+		"/C/Users/lykovm/Desktop/bootstrap.min.css",
+		"/C/P_project/x/ad.py",
+		"/C/P_project/rodovoe/database/admin.py",
+		"/C/P_project/rodovoe/database/templates/database/patology_form.html",
+		"/C/P_project/rodovoe/database/templates/database/patology_edit.html",
+		"/C/Users/lykovm/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/lykovm/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/P_project/rodovoe/rodovoe/forms.py",
+		"/C/P_project/patient/catalog/models.py",
+		"/C/P_project/patient/catalog/urls.py",
+		"/C/P_project/patient/catalog/templates/book_list.html",
+		"/C/Users/lykovm/AppData/Roaming/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text 3/changelog.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"row-gridCounter",
+			"send_keys",
+			"clear",
+			"row-bestOffer mte-grid-column-money",
+			"load_options"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "proj/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1090
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pr.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
