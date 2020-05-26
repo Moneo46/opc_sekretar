@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def create_record(request):
+	return render(request, 'database/create_record.html', {})
