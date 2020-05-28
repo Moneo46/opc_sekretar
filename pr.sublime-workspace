@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"find_ele",
+				"find_element_by_class_name\tfunction"
+			],
+			[
 				"text",
 				"TextField\tclass"
 			],
@@ -45,6 +49,42 @@
 			"settings":
 			{
 				"buffer_size": 974,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "proj/urls.py",
+			"settings":
+			{
+				"buffer_size": 158,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database/urls.py",
+			"settings":
+			{
+				"buffer_size": 130,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database/views.py",
+			"settings":
+			{
+				"buffer_size": 123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database/templates/database/create_record.html",
+			"settings":
+			{
+				"buffer_size": 903,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -150,13 +190,17 @@
 	],
 	"file_history":
 	[
+		"/C/P_project/sekretar/database/urls.py",
+		"/C/P_project/53/run.py",
+		"/C/Users/lykovm/Desktop/1.html",
+		"/C/Users/lykovm/Downloads/Telegram Desktop/xbet_new.py",
+		"/C/Users/lykovm/Desktop/update.py",
+		"/C/Users/lykovm/Desktop/run.py",
 		"/C/P_project/sekretar/database/.gitignore",
 		"/C/P_project/rodovoe/rodovoe/settings.py",
 		"/C/P_project/x/run.py",
 		"/C/lazarus/dev/53 trade/Новый текстовый документ.txt",
 		"/C/lazarus/dev/53 trade/html.txt",
-		"/C/Users/lykovm/Desktop/run.py",
-		"/C/Users/lykovm/Desktop/update.py",
 		"/C/P_project/sekretar/proj/proj/settings.py",
 		"/C/Users/lykovm/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/C/P_project/sekretar/run.py",
@@ -276,7 +320,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -290,6 +334,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mte-grid-action action-offer",
+			"class=\"compact\"",
+			"href",
+			"class",
+			"mte-grid-table",
+			"<table",
+			"table",
 			"row-gridCounter",
 			"send_keys",
 			"clear",
@@ -312,7 +363,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -343,7 +394,7 @@
 						"translation.y": 1061.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -359,13 +410,42 @@
 						"selection":
 						[
 							[
-								895,
-								895
+								345,
+								345
 							]
 						],
 						"settings":
 						{
-							"git_gutter_is_enabled": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "proj/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -376,7 +456,94 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
+					"file": "database/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "database/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								112
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "database/templates/database/create_record.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "database/admin.py",
 					"semi_transient": false,
 					"settings":
@@ -401,11 +568,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 7,
 					"file": ".gitignore",
 					"semi_transient": false,
 					"settings":
@@ -430,11 +597,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 8,
 					"file": ".git/config",
 					"semi_transient": false,
 					"settings":
@@ -460,7 +627,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]

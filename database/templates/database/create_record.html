@@ -8,6 +8,11 @@
 
 <body>
 
+
+{% for row in rows %}
+<b><p>{{row.priem_fio|linebreaksbr}}</p></b>
+{% endfor %}
+
 <div>
             <h1><a href="/">Django Girls Blog</a></h1>
         </div>
